@@ -1,0 +1,23 @@
+Folder projektowy zawiera 3 pliki z kodem zród³owym, plik tekstowy z dokumentacja oraz plik README z instrukcjami uruchomienia.
+Instrukcja uruchomienia:
+1)
+Aby uruchomiæ program nale¿y najpierw poprawnie skompilowaæ i zlinkowac pliki: Start2.java, Cell.java oraz UGenerator.java
+
+2)
+Funkcja main znajduje sie w Klasie Start2 wiec aby uruchomic aplikacje nalezy wywo³ac komende java Start2
+
+3)
+Po pojawieniu sie aplikacji GUI nalezy najpierw wybrac w polach tekstowych wspolrzednie lub u¿yc defaultowych.
+Pierwsza wspolrzedna z kazdej pary oznacza wysokosc gdzie 1 to gora a N to dó³
+Druga wspolrzedna z kazdej pary oznacza szerokosc gdzie 1 to lewa strona a N to prawa strona
+Domyslnie liczba N wynosi 10. Jej wartosc mozna zmienic w kodzie pliku Start2.java
+
+4)
+Aby ustawiæ i wyœwietlic wybrane punkty nalezy przycisnac guzik SET
+Zielona kropka oznacza start, a czerwona oznacza koniec
+
+5)
+Aby uruchomic rozwiazywanie labiryntu nalezy przycisnac guzik SOLVE
+
+6)
+Po zakonczonym rozwiazywaniu labiryntu mozna przycisnac guzik RESET aby wyczyscic labirynt albo wybrac guzik NEW MAZE aby wygenerowac nowy labirynt
